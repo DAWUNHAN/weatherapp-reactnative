@@ -9,7 +9,7 @@ import {
 } from 'react-native';
 import Weather from './Weather';
 
-const API_KEY = '90fcd607e36770864b3afdb54495e849';
+const API_KEY = '';
 
 export default class App extends Component {
   state = {
